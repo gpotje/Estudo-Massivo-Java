@@ -7,3 +7,5 @@
 2 ex Remover switch com polimorfismo
 <br/>
 3 ex Encapsulamento de estado
+<br/>
+4 ex Modelagem de domínio
