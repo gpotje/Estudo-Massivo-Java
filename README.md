@@ -10,4 +10,6 @@
 <br/>
 4 ex Modelagem de domínio
 <br/>
-5 ex estratégia de comportamento
+5 ex estratégia de comportamento / Strategy pattern
+<br/>
+6 ex Composição de strategies
