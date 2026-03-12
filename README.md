@@ -13,3 +13,5 @@
 5 ex estratégia de comportamento / Strategy pattern
 <br/>
 6 ex Composição de strategies
+<br/>
+7 ex 'tell don't ask' -> responsabilidade de objeto, redução de acoplamento e melhoria de encapsulamento
