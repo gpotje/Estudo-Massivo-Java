@@ -25,4 +25,23 @@ public class ItemPedido {
             return produto.getPreco() * quantidade;
         }
     }
+    /*
+     public double calcularTotal() {
+
+        double total = 0;
+         for (ItemPedido item : itens) {
+            Produto produto = item.getProduto();
+            int quantidade = item.getQuantidade();
+
+            if(produto.getCategoria().equals("ELETRONICO")) {
+                total += produto.getPreco() * quantidade * 0.9;
+            } else {
+                total += produto.getPreco() * quantidade;
+            }
+        }
+        return total;
+    }
+
+    */
+
 }
