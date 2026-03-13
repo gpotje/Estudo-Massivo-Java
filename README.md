@@ -17,3 +17,5 @@
 7 ex 'tell don't ask' -> responsabilidade de objeto, redução de acoplamento e melhoria de encapsulamento
 <br/>
 8 ex polimorfismo por tipo
+<br/>
+9 ex delegação por composição
