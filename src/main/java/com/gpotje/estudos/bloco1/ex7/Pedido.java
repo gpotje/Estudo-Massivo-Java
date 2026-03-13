@@ -7,8 +7,19 @@ public class Pedido {
 
     private List<ItemPedido> itens = new ArrayList<>();
 
+    public Pedido() {
+    }
+
+    public Pedido(List<ItemPedido> itens) {
+        this.itens = itens;
+    }
+
     public void adicionarItem(ItemPedido item) {
         itens.add(item);
+    }
+
+    public List<ItemPedido> getItens() {
+        return itens;
     }
 
     public double calcularTotal() {
@@ -19,5 +30,7 @@ public class Pedido {
         }
         return total;
     }
+
+
 
 }

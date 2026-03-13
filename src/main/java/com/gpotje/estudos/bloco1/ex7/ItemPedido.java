@@ -25,6 +25,14 @@ public class ItemPedido {
             return produto.getPreco() * quantidade;
         }
     }
+
+    @Override
+    public String toString() {
+        return "ItemPedido{" +
+                "produto=" + produto +
+                ", quantidade=" + quantidade +
+                '}';
+    }
     /*
      public double calcularTotal() {
 
