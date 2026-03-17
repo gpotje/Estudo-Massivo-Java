@@ -23,3 +23,7 @@
 10 ex SRP Single Responsibility Principle
 <br/>
 11 ex Dependency Inversion
+<br/>
+12 ex SRP + DI + orquestração limpa.
+<br/>
+13 ex Encapsular regra dentro do objeto
