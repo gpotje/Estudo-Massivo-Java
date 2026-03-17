@@ -27,3 +27,5 @@
 12 ex SRP + DI + orquestração limpa.
 <br/>
 13 ex Encapsular regra dentro do objeto
+<br/>
+14 ex Remover switch com polimorfismo
