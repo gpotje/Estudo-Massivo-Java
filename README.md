@@ -29,3 +29,7 @@
 13 ex Encapsular regra dentro do objeto
 <br/>
 14 ex Remover switch com polimorfismo
+<br/>
+15 ex Strategy Pattern
+<br/>
+16 ex Strategy + composição
