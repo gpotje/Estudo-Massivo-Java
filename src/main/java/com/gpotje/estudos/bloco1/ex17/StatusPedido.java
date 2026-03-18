@@ -1,4 +1,5 @@
 package com.gpotje.estudos.bloco1.ex17;
 
 public interface StatusPedido {
+    void avancar(Pedido pedido);
 }

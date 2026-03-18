@@ -33,3 +33,6 @@
 15 ex Strategy Pattern
 <br/>
 16 ex Strategy + composição
+<br/>
+17 ex Strategy de estado (mudança de status via interfaces)
+
