@@ -39,3 +39,5 @@
 18 ex Pipeline de validação (Chain of Responsibility)
 <br/>
 19 ex Regra dentro do objeto correto
+<br/>
+20 ex Delegar comportamento ao objeto correto
