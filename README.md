@@ -43,3 +43,5 @@
 20 ex Delegar comportamento ao objeto correto
 <br/>
 21 ex Compor múltiplos descontos
+<br/>
+22 ex Remover if/switch baseado em tipo usando polimorfismo.
