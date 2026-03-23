@@ -5,5 +5,6 @@ public class Principal {
         Cliente c1 = new Cliente(true);
         Pedido p1 = new Pedido(1000.0,c1);
         System.out.println(p1.calcularDesconto());
+        //sout
     }
 }
