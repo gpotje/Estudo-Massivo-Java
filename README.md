@@ -45,3 +45,9 @@
 21 ex Compor múltiplos descontos
 <br/>
 22 ex Remover if/switch baseado em tipo usando polimorfismo.
+<br/>
+23 ex Tell Don’t Ask (objeto decide) 
+/ Encapsulamento de regra 
+/ Remover service anêmico
+/ Substituir regra por polimorfismo
+<br/>
