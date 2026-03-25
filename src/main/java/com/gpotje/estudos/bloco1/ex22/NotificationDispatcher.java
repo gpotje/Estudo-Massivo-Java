@@ -6,7 +6,6 @@ public class NotificationDispatcher {
     private String recipient;
     private List<Notification> notifications;
 
-
     public NotificationDispatcher(List<Notification> notifications, String recipient) {
         this.notifications = notifications;
         this.recipient = recipient;
@@ -18,7 +17,7 @@ public class NotificationDispatcher {
 
     public void send(){
         for(Notification n : notifications){
-            n.send(this);
+            n.send(recipient);
         }
     }
 }
