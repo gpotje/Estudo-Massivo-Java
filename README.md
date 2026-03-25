@@ -51,3 +51,11 @@
 / Remover service anêmico
 / Substituir regra por polimorfismo
 <br/>
+24 ex Modelagem por regra (condição)/
+ Chain of Responsibility (ideia)/
+Substituir if por objetos /
+<br/>
+25 ex Strategy (composição) /
+ Polimorfismo /
+ Tell Don’t Ask /
+ Baixo acoplamento /
