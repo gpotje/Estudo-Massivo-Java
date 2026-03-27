@@ -1,6 +1,15 @@
 # Estudo Massivo Java
 
-<b>Fundamentos OOP <b/>
+<b>Fundamentos OOP BLOCO 0 <b/>
+<br/>
+1 — Interface básica sistema de pagamento
+<br/>
+2 — Interface básica sistema de relatórios
+<br/> 
+3 - quando usar interface vs abstract formas de desconto
+
+
+<b>Fundamentos OOP BLOCO 1 <b/>
 <br/>
 1 ex Remover if com polimorfismo
 <br/>

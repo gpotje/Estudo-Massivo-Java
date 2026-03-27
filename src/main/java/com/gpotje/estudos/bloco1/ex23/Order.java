@@ -7,10 +7,10 @@ public abstract class Order {
         this.total = total;
     }
 
-    protected double getTotal() {
+    public double getTotal() {
         return total;
     }
 
-    abstract  double calculateDiscount();
+    abstract double calculateDiscount();
 
 }
