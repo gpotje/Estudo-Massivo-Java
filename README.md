@@ -11,7 +11,10 @@
 4 - Sistema de envio de mensagens interface vs abstract
 <br/>
 5 - Sistema de funcionários trabalhando interface vs abstract
-
+<br/>
+6 - Sistema de animais
+<br/>
+7 - calcular taxa antes de pagar
 
 <b>Fundamentos OOP BLOCO 1 <b/>
 <br/>
