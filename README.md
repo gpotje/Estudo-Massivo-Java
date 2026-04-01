@@ -15,6 +15,9 @@
 6 - Sistema de animais
 <br/>
 7 - calcular taxa antes de pagar
+<br/>
+8 - taxa de envio 
+
 
 <b>Fundamentos OOP BLOCO 1 <b/>
 <br/>
