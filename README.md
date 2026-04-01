@@ -16,7 +16,11 @@
 <br/>
 7 - calcular taxa antes de pagar
 <br/>
-8 - taxa de envio 
+8 - taxa de envio
+<br/>
+9 - Sistema de funcionários
+<br/>
+8 - Sistema de descontos
 
 
 <b>Fundamentos OOP BLOCO 1 <b/>
