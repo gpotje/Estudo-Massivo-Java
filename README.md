@@ -2,26 +2,25 @@
 
 <b>Fundamentos OOP BLOCO 0 <b/>
 <br/>
-1 — Interface básica sistema de pagamento
+1 ex Interface básica sistema de pagamento
 <br/>
-2 — Interface básica sistema de relatórios
+2 ex Interface básica sistema de relatórios
 <br/> 
-3 - quando usar interface vs abstract formas de desconto
+3 ex quando usar interface vs abstract formas de desconto
 <br/>
-4 - Sistema de envio de mensagens interface vs abstract
+4 ex  Sistema de envio de mensagens interface vs abstract
 <br/>
-5 - Sistema de funcionários trabalhando interface vs abstract
+5 ex Sistema de funcionários trabalhando interface vs abstract
 <br/>
-6 - Sistema de animais
+6 ex Sistema de animais
 <br/>
-7 - calcular taxa antes de pagar
+7 ex calcular taxa antes de pagar
 <br/>
-8 - taxa de envio
+8 ex taxa de envio
 <br/>
-9 - Sistema de funcionários
+9 ex Sistema de funcionários
 <br/>
-8 - Sistema de descontos
-
+10 ex Sistema de descontos
 
 <b>Fundamentos OOP BLOCO 1 <b/>
 <br/>
@@ -82,3 +81,9 @@ Substituir if por objetos /
  Polimorfismo /
  Tell Don’t Ask /
  Baixo acoplamento /
+
+<b>1.1 Consolidação de OOP (Abstract + Estado)<b/>
+<br/>
+
+1 ex Sistema de pedidos (Order) <br/>
+2 ex Modelagem de Produto (Abstract + Estado) <br/>
