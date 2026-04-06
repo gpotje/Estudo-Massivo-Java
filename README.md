@@ -55,3 +55,4 @@ Substituir if por objetos /<br/>
 1 ex Sistema de pedidos (Order) <br/>
 2 ex Modelagem de Produto (Abstract + Estado) <br/>
 3 ex Sistema de assinaturas (Subscription) (Abstract + Estado) <br/>
+4 ex Sistema de ingressos (Ticket) <br/>
