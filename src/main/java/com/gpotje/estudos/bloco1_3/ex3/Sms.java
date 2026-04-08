@@ -1,4 +1,4 @@
-package com.gpotje.estudos.bloco1_2.ex3;
+package com.gpotje.estudos.bloco1_3.ex4.ex3;
 
 public class Sms implements Notification{
     @Override

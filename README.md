@@ -62,4 +62,9 @@ Substituir if por objetos /<br/>
 
 1 ex Sistema de login<br/>
 2 ex Sistema de entrega<br/>
-3 ex Sistema de notificações <br/>
+
+<b>(Interface vs Abstract) BLOCO 1.3<b/>
+<br/>
+
+1 ex Sistema de notificações <br/>
+2 ex Sistema de pagamento <br/>
