@@ -1,4 +1,4 @@
-package com.gpotje.estudos.bloco1_4;
+package com.gpotje.estudos.bloco1_4.ex1;
 
 public class NoDiscount implements Discount {
     @Override

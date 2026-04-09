@@ -69,3 +69,8 @@ Substituir if por objetos /<br/>
 1 ex Sistema de notificações <br/>
 2 ex Sistema de pagamento <br/>
 3 ex Sistema de log <br/>
+
+<b>Composição vs Herança (nível importante) BLOCO 1.4<b/>
+<br/>
+
+1 ex Sistema de desconto <br/>
