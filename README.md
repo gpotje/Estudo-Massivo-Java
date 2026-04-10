@@ -74,3 +74,4 @@ Substituir if por objetos /<br/>
 <br/>
 
 1 ex Sistema de desconto <br/>
+2 ex Sistema de frete + desconto juntos <br/>
